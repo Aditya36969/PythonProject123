@@ -1,0 +1,8 @@
+print("hello world!")
+print(2 + 2)
+print(2 - 2)
+print(2 * 2)
+print(2 / 2)
+print("hello test")
+print("true", "hello", "test", sep="    ")
+print("my name is Aditya")
